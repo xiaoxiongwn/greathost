@@ -3,6 +3,6 @@
 ## Greathost 续期状态
 
 <!-- GREATHOST-RENEW-STATUS:START -->
-✅ 续期成功 | 时间: 2026-04-07 10:46:14 UTC / 2026-04-07 18:46:14 (UTC+8)
+✅ 续期成功 | 时间: 2026-04-08 05:42:47 UTC / 2026-04-08 13:42:47 (UTC+8)
 <!-- GREATHOST-RENEW-STATUS:END -->
 
